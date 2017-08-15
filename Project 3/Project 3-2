@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Menu</h1>
+
+<h2>The Ultimate Breakfast</h2>
+
+<img src="breakfast1.jpg">
+
+<p>Are you hungry? I am <em>really</em> hungry?  If so, we recommend you
+   pick this dish! Fluffy pancakes, eggs over easy, crispy bacon, refried
+   beans, a heapin' mountain of fried potatoes, and an omlette with green
+   and red bell peppers.  Comes with a side of tomato and avocado (bleh).</p>
+
+
+<h2>Bacon and Eggs</h2>
+
+<img src="breakfast2.jpg">
+
+<p>You can't go wrong with the classics.  Two eggs server over easy and two
+   slices of crispy bacon.</p>
+
+
+<h2>Plan and simple Eggs</h2>
+
+<img src="breakfast3.jpg">
+
+<p>Looking for something filled with protein?  Two eggs, served any way you
+   like.</p>
+
+
+<h2>The Pancake Feast</h2>
+
+<img src="breakfast4.jpg">
+
+<p>Talk about a carb overload! Seven stacks of mini pancakes shaped like
+   hearts.  Comes with a side of maple syrup and butter.</p>
+
+<p>To go back to the home page, click <a href="Project 3-1">here.</a></p>
+
+<p>Are you interested in catering or ordering to go? If so,
+   click <a href="Project 3-3">here.</a></p>
+
+</body>
+</html>
